@@ -24,17 +24,16 @@ Go to the [Releases](https://github.com/NorbertoTaveras/tiles-ios/releases) to d
 - [Core Data](https://developer.apple.com/documentation/coredata) - Framework to persist or cache data on a single device, or sync data to multiple devices with Cloudkit.
 
 ## Demo
-<img src="" width-"32%" /
+<img src="/Assets/tiles_demo.gif" width="32%" />
      
 ## Screenshots
 <p>
-    <img src="/assets/" width="25%"/>
-    <img src="/assets/" width="25%"/>
-    <img src="/assets/" width="25%"/>
+    <img src="/Assets/screenshot1.png" width="25%"/>
+    <img src="/Assets/screenshot2.png" width="25%"/>
+    <img src="/Assets/screenshot3.png" width="25%"/>
 </p>
 
 <p>
-    <img src="/assets/" width="25%"/>
-    <img src="/assets/" width="25%"/>
-    <img src="/assets/" width="25%"/>
+    <img src="/Assets/screenshot4.png" width="25%"/>
+    <img src="/Assets/screenshot5.png" width="25%"/>
 </p>
