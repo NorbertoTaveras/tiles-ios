@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- Tiles is a minimal match pairs of cards style of game until there are no more cards available. It is interactive and contains a timer to keep scores in the Leaderboards.<br>
+ Tiles is a minimalist match pairs of cards style of game until there are no more cards available. It is interactive and contains a timer to keep scores in the Leaderboards.<br>
 </p>
 </br>
 
